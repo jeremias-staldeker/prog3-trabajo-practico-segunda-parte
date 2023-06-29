@@ -2,6 +2,5 @@
 Programación 3 - Trabajo Practico Entregable
 
 Integrantes:
-
-Juan Pablo Schwindt
-Jeremías Staldeker
+- Juan Pablo Schwindt
+- Jeremías Staldeker
