@@ -1,2 +1,7 @@
-# prog3-trabajo-practico-segunda-parte
-Programación 3 - Trabajo Practico Entregable Segunda Parte
+# Programación 3 - Trabajo Practico Segunda Parte
+Programación 3 - Trabajo Practico Entregable
+
+Integrantes:
+
+Juan Pablo Schwindt
+Jeremías Staldeker
